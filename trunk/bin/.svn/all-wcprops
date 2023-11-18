@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 26
+/svn/!svn/ver/46/trunk/bin
+END
+server.config.txt
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/!svn/ver/46/trunk/bin/server.config.txt
+END
+admins.txt
+K 25
+svn:wc:ra_dav:version-url
+V 37
+/svn/!svn/ver/46/trunk/bin/admins.txt
+END
+banlist.txt
+K 25
+svn:wc:ra_dav:version-url
+V 37
+/svn/!svn/ver/2/trunk/bin/banlist.txt
+END
+README.txt
+K 25
+svn:wc:ra_dav:version-url
+V 36
+/svn/!svn/ver/2/trunk/bin/README.txt
+END
+infiniminer.nsi
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/svn/!svn/ver/2/trunk/bin/infiniminer.nsi
+END
+client.config.txt
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/!svn/ver/46/trunk/bin/client.config.txt
+END
+Game.ico
+K 25
+svn:wc:ra_dav:version-url
+V 34
+/svn/!svn/ver/2/trunk/bin/Game.ico
+END
+keymap.txt
+K 25
+svn:wc:ra_dav:version-url
+V 37
+/svn/!svn/ver/46/trunk/bin/keymap.txt
+END

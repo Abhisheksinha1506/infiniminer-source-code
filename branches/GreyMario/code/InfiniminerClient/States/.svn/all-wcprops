@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/16/branches/GreyMario/code/InfiniminerClient/States
+END
+DebugState.cs
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/16/branches/GreyMario/code/InfiniminerClient/States/DebugState.cs
+END
+ServerBrowserState.cs
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/16/branches/GreyMario/code/InfiniminerClient/States/ServerBrowserState.cs
+END
+ClassSelectionState.cs
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/16/branches/GreyMario/code/InfiniminerClient/States/ClassSelectionState.cs
+END
+TeamSelectionState.cs
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/16/branches/GreyMario/code/InfiniminerClient/States/TeamSelectionState.cs
+END
+LoadingState.cs
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/16/branches/GreyMario/code/InfiniminerClient/States/LoadingState.cs
+END
+MainGameState.cs
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/16/branches/GreyMario/code/InfiniminerClient/States/MainGameState.cs
+END
+TitleState.cs
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/16/branches/GreyMario/code/InfiniminerClient/States/TitleState.cs
+END

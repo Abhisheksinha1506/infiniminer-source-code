@@ -1,0 +1,179 @@
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/48/branches/ContextualTextures/InfiniminerClient
+END
+PropertyBag.cs
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/48/branches/ContextualTextures/InfiniminerClient/PropertyBag.cs
+END
+BlockInformation.cs
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/43/branches/ContextualTextures/InfiniminerClient/BlockInformation.cs
+END
+DatafileLoader.cs
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/38/branches/ContextualTextures/InfiniminerClient/DatafileLoader.cs
+END
+InfiniminerGame.cs
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/48/branches/ContextualTextures/InfiniminerClient/InfiniminerGame.cs
+END
+EventInput.cs
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/48/branches/ContextualTextures/InfiniminerClient/EventInput.cs
+END
+InfiniminerClient.csproj
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/48/branches/ContextualTextures/InfiniminerClient/InfiniminerClient.csproj
+END
+effect_basic.fx
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/38/branches/ContextualTextures/InfiniminerClient/effect_basic.fx
+END
+Infiniminer.pdb
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/38/branches/ContextualTextures/InfiniminerClient/Infiniminer.pdb
+END
+Program.cs
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/48/branches/ContextualTextures/InfiniminerClient/Program.cs
+END
+Lidgren.Network.Xna.dll
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/38/branches/ContextualTextures/InfiniminerClient/Lidgren.Network.Xna.dll
+END
+effect_skyplane.fx
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/38/branches/ContextualTextures/InfiniminerClient/effect_skyplane.fx
+END
+PlayerO.cs
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/48/branches/ContextualTextures/InfiniminerClient/PlayerO.cs
+END
+ServerInformation.cs
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/48/branches/ContextualTextures/InfiniminerClient/ServerInformation.cs
+END
+InfiniminerClient.csproj.user
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/48/branches/ContextualTextures/InfiniminerClient/InfiniminerClient.csproj.user
+END
+Game.ico
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/38/branches/ContextualTextures/InfiniminerClient/Game.ico
+END
+TestGeometryRenderer.cs
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/38/branches/ContextualTextures/InfiniminerClient/TestGeometryRenderer.cs
+END
+InfiniminerClient.csproj.Release.cachefile
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/!svn/ver/48/branches/ContextualTextures/InfiniminerClient/InfiniminerClient.csproj.Release.cachefile
+END
+Lidgren.Network.dll
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/38/branches/ContextualTextures/InfiniminerClient/Lidgren.Network.dll
+END
+Infiniminer.exe
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/38/branches/ContextualTextures/InfiniminerClient/Infiniminer.exe
+END
+KeyBindHandler.cs
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/48/branches/ContextualTextures/InfiniminerClient/KeyBindHandler.cs
+END
+KeyMap.cs
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/48/branches/ContextualTextures/InfiniminerClient/KeyMap.cs
+END
+SpriteModel.cs
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/39/branches/ContextualTextures/InfiniminerClient/SpriteModel.cs
+END
+marvulous_mod.client.config.txt
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/38/branches/ContextualTextures/InfiniminerClient/marvulous_mod.client.config.txt
+END
+Camera.cs
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/38/branches/ContextualTextures/InfiniminerClient/Camera.cs
+END
+HTTPRequest.cs
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/38/branches/ContextualTextures/InfiniminerClient/HTTPRequest.cs
+END
+InfiniminerClient.csproj.Debug.cachefile
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/!svn/ver/48/branches/ContextualTextures/InfiniminerClient/InfiniminerClient.csproj.Debug.cachefile
+END
+ClickRegion.cs
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/38/branches/ContextualTextures/InfiniminerClient/ClickRegion.cs
+END
+GameThumbnail.png
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/38/branches/ContextualTextures/InfiniminerClient/GameThumbnail.png
+END
+Player.cs
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/38/branches/ContextualTextures/InfiniminerClient/Player.cs
+END

@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/34/branches/Marvulous%20Mod/code/InfiniminerClient/States
+END
+DebugState.cs
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/3/branches/Marvulous%20Mod/code/InfiniminerClient/States/DebugState.cs
+END
+ServerBrowserState.cs
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/34/branches/Marvulous%20Mod/code/InfiniminerClient/States/ServerBrowserState.cs
+END
+ClassSelectionState.cs
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/4/branches/Marvulous%20Mod/code/InfiniminerClient/States/ClassSelectionState.cs
+END
+TeamSelectionState.cs
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/31/branches/Marvulous%20Mod/code/InfiniminerClient/States/TeamSelectionState.cs
+END
+LoadingState.cs
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/31/branches/Marvulous%20Mod/code/InfiniminerClient/States/LoadingState.cs
+END
+MainGameState.cs
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/34/branches/Marvulous%20Mod/code/InfiniminerClient/States/MainGameState.cs
+END
+TitleState.cs
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/3/branches/Marvulous%20Mod/code/InfiniminerClient/States/TitleState.cs
+END

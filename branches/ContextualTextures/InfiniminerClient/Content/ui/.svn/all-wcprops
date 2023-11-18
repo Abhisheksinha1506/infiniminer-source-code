@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/38/branches/ContextualTextures/InfiniminerClient/Content/ui
+END
+tex_radar_player_below.png
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/!svn/ver/38/branches/ContextualTextures/InfiniminerClient/Content/ui/tex_radar_player_below.png
+END
+tex_radar_player_above.png
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/!svn/ver/38/branches/ContextualTextures/InfiniminerClient/Content/ui/tex_radar_player_above.png
+END
+tex_radar_player_ping.png
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/!svn/ver/38/branches/ContextualTextures/InfiniminerClient/Content/ui/tex_radar_player_ping.png
+END
+tex_radar_foreground.png
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/!svn/ver/38/branches/ContextualTextures/InfiniminerClient/Content/ui/tex_radar_foreground.png
+END
+tex_radar_north.png
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/38/branches/ContextualTextures/InfiniminerClient/Content/ui/tex_radar_north.png
+END
+tex_radar_background.png
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/!svn/ver/38/branches/ContextualTextures/InfiniminerClient/Content/ui/tex_radar_background.png
+END
+tex_radar_player_same.png
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/!svn/ver/38/branches/ContextualTextures/InfiniminerClient/Content/ui/tex_radar_player_same.png
+END
+tex_ui_crosshair.png
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/38/branches/ContextualTextures/InfiniminerClient/Content/ui/tex_ui_crosshair.png
+END

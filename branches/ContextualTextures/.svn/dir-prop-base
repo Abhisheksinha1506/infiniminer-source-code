@@ -1,0 +1,10 @@
+K 10
+svn:ignore
+V 16
+Infiniminer.suo
+
+K 13
+svn:mergeinfo
+V 34
+/branches/ContextualTextures:31-38
+END

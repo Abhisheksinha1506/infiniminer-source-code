@@ -1,0 +1,123 @@
+10
+
+dir
+48
+http://infiniminer.googlecode.com/svn/branches/ContextualTextures/InfiniminerClient/Content
+http://infiniminer.googlecode.com/svn
+
+
+
+2009-06-17T01:17:29.674303Z
+48
+SignpostMarv
+has-props
+
+
+
+
+
+
+
+
+
+
+
+
+
+cb8136aa-5222-11de-bc8f-bda5044519d4
+
+song_title.mp3
+file
+
+
+
+
+2016-03-19T01:50:51.728870Z
+f5c50b99c229ee0af6df2132f851d52b
+2009-06-17T01:17:29.674303Z
+48
+SignpostMarv
+has-props
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+753222
+
+menus
+dir
+
+sprites
+dir
+
+fonts
+dir
+
+sounds
+dir
+
+icons
+dir
+
+blocks
+dir
+
+ui
+dir
+
+Content.contentproj
+file
+
+
+
+
+2016-03-19T01:50:51.728870Z
+da4a6f0a59c63ae9f638e06e2d45186f
+2009-06-17T01:17:29.674303Z
+48
+SignpostMarv
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+28192
+
+effects
+dir
+
+tools
+dir
+

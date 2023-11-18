@@ -1,0 +1,95 @@
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/19/branches/GreyMario/bin/Content/sounds
+END
+cash.xnb
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/19/branches/GreyMario/bin/Content/sounds/cash.xnb
+END
+explosion.xnb
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/19/branches/GreyMario/bin/Content/sounds/explosion.xnb
+END
+death.xnb
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/19/branches/GreyMario/bin/Content/sounds/death.xnb
+END
+click-loud.xnb
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/19/branches/GreyMario/bin/Content/sounds/click-loud.xnb
+END
+jumpblock.xnb
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/19/branches/GreyMario/bin/Content/sounds/jumpblock.xnb
+END
+radar-low.xnb
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/19/branches/GreyMario/bin/Content/sounds/radar-low.xnb
+END
+ping.xnb
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/19/branches/GreyMario/bin/Content/sounds/ping.xnb
+END
+teleport.xnb
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/19/branches/GreyMario/bin/Content/sounds/teleport.xnb
+END
+build.xnb
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/19/branches/GreyMario/bin/Content/sounds/build.xnb
+END
+switch.xnb
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/19/branches/GreyMario/bin/Content/sounds/switch.xnb
+END
+dig-dirt.xnb
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/19/branches/GreyMario/bin/Content/sounds/dig-dirt.xnb
+END
+dig-metal.xnb
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/19/branches/GreyMario/bin/Content/sounds/dig-metal.xnb
+END
+hitground.xnb
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/19/branches/GreyMario/bin/Content/sounds/hitground.xnb
+END
+radar-high.xnb
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/19/branches/GreyMario/bin/Content/sounds/radar-high.xnb
+END
+click-quiet.xnb
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/19/branches/GreyMario/bin/Content/sounds/click-quiet.xnb
+END

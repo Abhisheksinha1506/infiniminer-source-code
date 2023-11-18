@@ -1,0 +1,101 @@
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/5/trunk/code/InfiniminerClient/Content/sounds
+END
+cash.wav
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/5/trunk/code/InfiniminerClient/Content/sounds/cash.wav
+END
+explosion.wav
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/5/trunk/code/InfiniminerClient/Content/sounds/explosion.wav
+END
+death.wav
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/5/trunk/code/InfiniminerClient/Content/sounds/death.wav
+END
+click-loud.wav
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/5/trunk/code/InfiniminerClient/Content/sounds/click-loud.wav
+END
+jumpblock.wav
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/5/trunk/code/InfiniminerClient/Content/sounds/jumpblock.wav
+END
+radar-low.wav
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/5/trunk/code/InfiniminerClient/Content/sounds/radar-low.wav
+END
+ping.wav
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/5/trunk/code/InfiniminerClient/Content/sounds/ping.wav
+END
+teleport.wav
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/5/trunk/code/InfiniminerClient/Content/sounds/teleport.wav
+END
+build.wav
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/5/trunk/code/InfiniminerClient/Content/sounds/build.wav
+END
+switch.wav
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/5/trunk/code/InfiniminerClient/Content/sounds/switch.wav
+END
+dig-metal.wav
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/5/trunk/code/InfiniminerClient/Content/sounds/dig-metal.wav
+END
+dig-dirt.wav
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/5/trunk/code/InfiniminerClient/Content/sounds/dig-dirt.wav
+END
+hitground.wav
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/5/trunk/code/InfiniminerClient/Content/sounds/hitground.wav
+END
+radar-high.wav
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/5/trunk/code/InfiniminerClient/Content/sounds/radar-high.wav
+END
+drill.wav
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/5/trunk/code/InfiniminerClient/Content/sounds/drill.wav
+END
+click-quiet.wav
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/5/trunk/code/InfiniminerClient/Content/sounds/click-quiet.wav
+END

@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/48/branches/ContextualTextures/InfiniminerClient/States
+END
+ClassSelectionState.cs
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/48/branches/ContextualTextures/InfiniminerClient/States/ClassSelectionState.cs
+END
+TeamSelectionState.cs
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/48/branches/ContextualTextures/InfiniminerClient/States/TeamSelectionState.cs
+END
+LoadingState.cs
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/48/branches/ContextualTextures/InfiniminerClient/States/LoadingState.cs
+END
+MainGameState.cs
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/48/branches/ContextualTextures/InfiniminerClient/States/MainGameState.cs
+END
+SettingsState.cs
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/48/branches/ContextualTextures/InfiniminerClient/States/SettingsState.cs
+END
+TitleState.cs
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/38/branches/ContextualTextures/InfiniminerClient/States/TitleState.cs
+END
+DebugState.cs
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/38/branches/ContextualTextures/InfiniminerClient/States/DebugState.cs
+END
+ServerBrowserState.cs
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/48/branches/ContextualTextures/InfiniminerClient/States/ServerBrowserState.cs
+END

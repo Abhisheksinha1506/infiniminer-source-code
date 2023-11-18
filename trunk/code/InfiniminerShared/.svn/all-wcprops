@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/46/trunk/code/InfiniminerShared
+END
+Player.cs
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/46/trunk/code/InfiniminerShared/Player.cs
+END
+app.config
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/46/trunk/code/InfiniminerShared/app.config
+END
+BlockInformation.cs
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/46/trunk/code/InfiniminerShared/BlockInformation.cs
+END
+DatafileLoader.cs
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/46/trunk/code/InfiniminerShared/DatafileLoader.cs
+END
+SharedConstants.cs
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/46/trunk/code/InfiniminerShared/SharedConstants.cs
+END
+GeneralEnums.cs
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/46/trunk/code/InfiniminerShared/GeneralEnums.cs
+END
+DataFileWriter.cs
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/46/trunk/code/InfiniminerShared/DataFileWriter.cs
+END
+SpriteModel.cs
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/46/trunk/code/InfiniminerShared/SpriteModel.cs
+END
+HTTPRequest.cs
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/46/trunk/code/InfiniminerShared/HTTPRequest.cs
+END
+InfiniminerShared.csproj
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/46/trunk/code/InfiniminerShared/InfiniminerShared.csproj
+END

@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/46/trunk/code/InfiniminerClient/InterfaceItems
+END
+InterfaceButtonToggle.cs
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/46/trunk/code/InfiniminerClient/InterfaceItems/InterfaceButtonToggle.cs
+END
+InterfaceLabel.cs
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/46/trunk/code/InfiniminerClient/InterfaceItems/InterfaceLabel.cs
+END
+InterfaceSlider.cs
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/46/trunk/code/InfiniminerClient/InterfaceItems/InterfaceSlider.cs
+END
+InterfaceTextInput.cs
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/46/trunk/code/InfiniminerClient/InterfaceItems/InterfaceTextInput.cs
+END
+InterfaceElement.cs
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/46/trunk/code/InfiniminerClient/InterfaceItems/InterfaceElement.cs
+END

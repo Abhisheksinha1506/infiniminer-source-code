@@ -1,0 +1,161 @@
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/46/trunk/code/InfiniminerClient
+END
+Infiniminer.exe
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/2/trunk/code/InfiniminerClient/Infiniminer.exe
+END
+KeyBindHandler.cs
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/46/trunk/code/InfiniminerClient/KeyBindHandler.cs
+END
+KeyMap.cs
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/46/trunk/code/InfiniminerClient/KeyMap.cs
+END
+Camera.cs
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/2/trunk/code/InfiniminerClient/Camera.cs
+END
+InfiniminerClient.csproj.Debug.cachefile
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/46/trunk/code/InfiniminerClient/InfiniminerClient.csproj.Debug.cachefile
+END
+ClickRegion.cs
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/2/trunk/code/InfiniminerClient/ClickRegion.cs
+END
+GameThumbnail.png
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/2/trunk/code/InfiniminerClient/GameThumbnail.png
+END
+PropertyBag.cs
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/46/trunk/code/InfiniminerClient/PropertyBag.cs
+END
+EventInput.cs
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/46/trunk/code/InfiniminerClient/EventInput.cs
+END
+InfiniminerGame.cs
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/46/trunk/code/InfiniminerClient/InfiniminerGame.cs
+END
+Lidgren.Network.Xna.pdb
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/2/trunk/code/InfiniminerClient/Lidgren.Network.Xna.pdb
+END
+InfiniminerClient.csproj
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/46/trunk/code/InfiniminerClient/InfiniminerClient.csproj
+END
+effect_basic.fx
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/2/trunk/code/InfiniminerClient/effect_basic.fx
+END
+Lidgren.Network.xml
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/2/trunk/code/InfiniminerClient/Lidgren.Network.xml
+END
+Infiniminer.pdb
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/2/trunk/code/InfiniminerClient/Infiniminer.pdb
+END
+Program.cs
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/2/trunk/code/InfiniminerClient/Program.cs
+END
+Lidgren.Network.Xna.dll
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/2/trunk/code/InfiniminerClient/Lidgren.Network.Xna.dll
+END
+effect_skyplane.fx
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/2/trunk/code/InfiniminerClient/effect_skyplane.fx
+END
+PlayerO.cs
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/46/trunk/code/InfiniminerClient/PlayerO.cs
+END
+Lidgren.Network.pdb
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/2/trunk/code/InfiniminerClient/Lidgren.Network.pdb
+END
+ServerInformation.cs
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/46/trunk/code/InfiniminerClient/ServerInformation.cs
+END
+InfiniminerClient.csproj.user
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/2/trunk/code/InfiniminerClient/InfiniminerClient.csproj.user
+END
+Game.ico
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/2/trunk/code/InfiniminerClient/Game.ico
+END
+Lidgren.Network.dll
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/2/trunk/code/InfiniminerClient/Lidgren.Network.dll
+END
+TestGeometryRenderer.cs
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/2/trunk/code/InfiniminerClient/TestGeometryRenderer.cs
+END
+InfiniminerClient.csproj.Release.cachefile
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/2/trunk/code/InfiniminerClient/InfiniminerClient.csproj.Release.cachefile
+END

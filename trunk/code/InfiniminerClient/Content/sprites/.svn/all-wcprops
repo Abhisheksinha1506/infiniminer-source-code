@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/46/trunk/code/InfiniminerClient/Content/sprites
+END
+tex_sprite_blue_pickaxe.png
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/5/trunk/code/InfiniminerClient/Content/sprites/tex_sprite_blue_pickaxe.png
+END
+tex_sprite_blue_drill.png
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/5/trunk/code/InfiniminerClient/Content/sprites/tex_sprite_blue_drill.png
+END
+tex_sprite_red_pickaxe.png
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/5/trunk/code/InfiniminerClient/Content/sprites/tex_sprite_red_pickaxe.png
+END
+tex_sprite_blue_radar.png
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/5/trunk/code/InfiniminerClient/Content/sprites/tex_sprite_blue_radar.png
+END
+tex_sprite_red_drill.png
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/5/trunk/code/InfiniminerClient/Content/sprites/tex_sprite_red_drill.png
+END
+tex_sprite_blue_construction.png
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/5/trunk/code/InfiniminerClient/Content/sprites/tex_sprite_blue_construction.png
+END
+tex_sprite_red_radar.png
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/5/trunk/code/InfiniminerClient/Content/sprites/tex_sprite_red_radar.png
+END
+tex_sprite_red_construction.png
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/5/trunk/code/InfiniminerClient/Content/sprites/tex_sprite_red_construction.png
+END
+tex_sprite_blue_detonator.png
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/5/trunk/code/InfiniminerClient/Content/sprites/tex_sprite_blue_detonator.png
+END
+tex_sprite_red_detonator.png
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/5/trunk/code/InfiniminerClient/Content/sprites/tex_sprite_red_detonator.png
+END
